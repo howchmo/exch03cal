@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Secret Files
+client_secrets.json
+icaluids.json
+
